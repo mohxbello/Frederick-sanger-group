@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 
 # Check if repository already exists, if not, clone it
@@ -42,4 +41,3 @@ for script in Python/*.py Java/*.java C++/*.cpp JavaScript/*.js R/*.R Ruby/*.rb;
 done
 
 echo "CSV file 'output.csv' has been generated with the script outputs."
-```
