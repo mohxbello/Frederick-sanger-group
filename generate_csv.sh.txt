@@ -1,6 +1,7 @@
 ```bash
 #!/bin/bash
 
+# Check if repository already exists, if not, clone it
 if [ ! -d "Bioinformatics-Course-2025" ]; then
     echo "Cloning the repository..."
     git clone <your-repo-url> Bioinformatics-Course-2025
