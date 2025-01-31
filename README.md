@@ -17,35 +17,35 @@ Our group is composed of enthusiasts and professionals in the field of life scie
 ![Bioinformartics Diagram]
 
 - **Python** (`script.py`):
-    python
+    ```python
     print("Name: John Doe")
     print("Email: john.doe@example.com")
     print("Mobile: +1234567890")
     print("Area of Interest: Genomics")
-    
+    ```
   - **R** (`script.R`):
-    R
+    ```R
     cat("Name: Jane Doe\n")
     cat("Email: jane.doe@example.com\n")
     cat("Mobile: +0987654321\n")
     cat("Area of Interest: Transcriptomics\n")
-    
+    ```
   - **Bash** (`script.sh`):
-    bash
+    ```bash
     echo "Name: Alice Smith"
     echo "Email: alice.smith@example.com"
     echo "Mobile: +1122334455"
     echo "Area of Interest: Proteomics"
-    
+    ```
   - **Perl** (`script.pl`):
-    perl
+    ```perl
     print "Name: Bob Johnson\n";
     print "Email: bob.johnson@example.com\n";
     print "Mobile: +3344556677\n";
     print "Area of Interest: Metagenomics\n";
-    
+    ```
   - **Java** (`Script.java`):
-    java
+    ```java
     public class Script {
         public static void main(String[] args) {
             System.out.println("Name: Charlie Brown");
@@ -54,9 +54,9 @@ Our group is composed of enthusiasts and professionals in the field of life scie
             System.out.println("Area of Interest: Structural Bioinformatics");
         }
     }
-    
+    ```
   - **C++** (`script.cpp`):
-    cpp
+    ```cpp
     #include <iostream>
     using namespace std;
 
@@ -67,7 +67,7 @@ Our group is composed of enthusiasts and professionals in the field of life scie
         cout << "Area of Interest: Systems Biology" << endl;
         return 0;
     }
-    
+    ```
 
 
 
