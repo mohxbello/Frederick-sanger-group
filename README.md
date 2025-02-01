@@ -9,49 +9,52 @@ Welcome to the Bioinformatics Course for 2025. This course covers fundamental an
 Our group is composed of enthusiasts and professionals in the field of life sciences who are dedicated to teaching and sharing knowledge about bioinformatics. We aim to bridge the gap between biology and computational sciences.
 
 ## Contributors
-- **John Doe** - Lead Instructor - [john.doe@example.com](mailto:john.doe@example.com)  
-- **Jane Smith** - Research Assistant - [jane.smith@example.com](mailto:jane.smith@example.com)  
-- **Alex Johnson** - Data Scientist - [alex.johnson@example.com](mailto:alex.johnson@example.com)
+- **Sulaiman Abarshi** - Group leader - [Sulaimanabarshi5@gmail.com](mailto:Sulaimanabarshi5@gmail.com)  
+- **Adamu Usman Mai** - Member - [Adamuusmanmaimasa@gmail.com](mailto:Adamuusmanmaimasa@gmail.com)  
+- **Abdulkadir Aliyu** - Member - [abdulkadiryau229@gmail.com](mailto:abdulkadiryau229@gmail.com)
+- **Hassana Muhammad saleh** - Member - [muhammadsalehhassana@gmail.com](mailto:muhammadsalehhassana@gmail.com)
+- **Alhaji hassan hashimu** - Member - [alhajihassanhashimu321@gmail.com](mailto:alhajihassanhashimu321@gmail.com)
+- **Balkisu ibrahim sanda** - Member - [balkisuibrahimsanda@gmail.com](mailto:balkisuibrahimsanda@gmail.com)
 
 ## Illustrations
 ![Bioinformartics Diagram]
 
 - **Python** (`script.py`):
     ```python
-    print("Name: John Doe")
-    print("Email: john.doe@example.com")
-    print("Mobile: +1234567890")
-    print("Area of Interest: Genomics")
+    print("Name: Sulaiman Abarshi")
+    print("Email: Sulaimanabarshi5@gmail.com")
+    print("Mobile: 08060570450")
+    print("Area of Interest: Data visualization")
     ```
   - **R** (`script.R`):
     ```R
-    cat("Name: Jane Doe\n")
-    cat("Email: jane.doe@example.com\n")
-    cat("Mobile: +0987654321\n")
-    cat("Area of Interest: Transcriptomics\n")
+    cat("Name: Adamu Usman Mai\n")
+    cat("Email: Adamuusmanmaimasa@gmail.com\n")
+    cat("Mobile: 07049947841\n")
+    cat("Area of Interest: bioninformatics tool development\n")
     ```
   - **Bash** (`script.sh`):
     ```bash
-    echo "Name: Alice Smith"
-    echo "Email: alice.smith@example.com"
-    echo "Mobile: +1122334455"
-    echo "Area of Interest: Proteomics"
+    echo "Name: Abdulkadir Aliyu"
+    echo "Email: abdulkadiryau229@gmail.com"
+    echo "Mobile: 08138251308"
+    echo "Area of Interest: system biology"
     ```
   - **Perl** (`script.pl`):
     ```perl
-    print "Name: Bob Johnson\n";
-    print "Email: bob.johnson@example.com\n";
-    print "Mobile: +3344556677\n";
-    print "Area of Interest: Metagenomics\n";
+    print "Name: Hassana Muhammad saleh\n";
+    print "Email: muhammadsalehhassana@gmail.com\n";
+    print "Mobile: 08124734746\n";
+    print "Area of Interest: Genomics\n";
     ```
   - **Java** (`Script.java`):
     ```java
     public class Script {
         public static void main(String[] args) {
-            System.out.println("Name: Charlie Brown");
-            System.out.println("Email: charlie.brown@example.com");
-            System.out.println("Mobile: +5566778899");
-            System.out.println("Area of Interest: Structural Bioinformatics");
+            System.out.println("Name: Alhaji hassan hashimu");
+            System.out.println("Email: alhajihassanhashimu321@gmail.com");
+            System.out.println("Mobile: 08069219966");
+            System.out.println("Area of Interest: Machine learning in bioinformatics");
         }
     }
     ```
@@ -61,9 +64,9 @@ Our group is composed of enthusiasts and professionals in the field of life scie
     using namespace std;
 
     int main() {
-        cout << "Name: David Wilson" << endl;
-        cout << "Email: david.wilson@example.com" << endl;
-        cout << "Mobile: +7788990011" << endl;
+        cout << "Name: Balkisu ibrahim sanda" << endl;
+        cout << "Email: balkisuibrahimsanda@gmail.com" << endl;
+        cout << "Mobile: 09049452727" << endl;
         cout << "Area of Interest: Systems Biology" << endl;
         return 0;
     }
